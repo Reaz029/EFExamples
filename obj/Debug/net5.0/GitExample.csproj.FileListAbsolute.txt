@@ -1,0 +1,16 @@
+E:\nirob\GitExample\bin\Debug\net5.0\GitExample.exe
+E:\nirob\GitExample\bin\Debug\net5.0\GitExample.deps.json
+E:\nirob\GitExample\bin\Debug\net5.0\GitExample.runtimeconfig.json
+E:\nirob\GitExample\bin\Debug\net5.0\GitExample.runtimeconfig.dev.json
+E:\nirob\GitExample\bin\Debug\net5.0\GitExample.dll
+E:\nirob\GitExample\bin\Debug\net5.0\ref\GitExample.dll
+E:\nirob\GitExample\bin\Debug\net5.0\GitExample.pdb
+E:\nirob\GitExample\obj\Debug\net5.0\GitExample.csproj.AssemblyReference.cache
+E:\nirob\GitExample\obj\Debug\net5.0\GitExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\nirob\GitExample\obj\Debug\net5.0\GitExample.AssemblyInfoInputs.cache
+E:\nirob\GitExample\obj\Debug\net5.0\GitExample.AssemblyInfo.cs
+E:\nirob\GitExample\obj\Debug\net5.0\GitExample.csproj.CoreCompileInputs.cache
+E:\nirob\GitExample\obj\Debug\net5.0\GitExample.dll
+E:\nirob\GitExample\obj\Debug\net5.0\ref\GitExample.dll
+E:\nirob\GitExample\obj\Debug\net5.0\GitExample.pdb
+E:\nirob\GitExample\obj\Debug\net5.0\GitExample.genruntimeconfig.cache
